@@ -1,8 +1,5 @@
 # textify
 
-Here’s a README for a text editor named Testify. This README provides an overview of the project, its features, setup instructions, and more.
-
-Testify
 Testify is a simple, responsive, and efficient text editor designed for developers and writers who want a clean, distraction-free writing experience. Built as a Progressive Web Application (PWA), Testify can be used both online and offline, allowing you to work seamlessly no matter where you are.
 
 Table of Contents
